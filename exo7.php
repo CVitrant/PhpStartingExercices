@@ -8,7 +8,8 @@ $array = array();
 $plusgrand = 0;
 $position = 0;
 foreach(range(0,19) as $i) {
-    $array[] = readline("Nombre : ");
+    echo "Entrez le nombre ".($i+1)."\r\n";
+    $array[] = readline();
     if ($array[$i] > $plusgrand) {
         $plusgrand = $array[$i];
         $position = $i + 1;
