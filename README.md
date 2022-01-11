@@ -1,6 +1,7 @@
 # PhpStartingExercices
 
 Introduction à l'algorithmique
+
 Découvrez le fonctionnement des algorithmes : 
 
 Ecrire le code en français correspond aux besoins suivants. Puis écrire les mêmes algorithmes dans le language de programmation PHP.
